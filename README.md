@@ -1,4 +1,4 @@
-import json
+import json5
 import base64
 from pathlib import Path
 
